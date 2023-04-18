@@ -2,6 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
 import Home from './components/Home';
+import Films from './components/films';
 import reportWebVitals from './reportWebVitals';
 
 import {BrowserRouter, Routes, Route} from 'react-router-dom'
@@ -11,6 +12,7 @@ root.render(
   <BrowserRouter>
     <Routes>
       <Route path="/" element={<Home />}></Route>
+      <Route path="/films" element={<Films />}></Route>
     </Routes>
   </BrowserRouter>
 );
