@@ -1,0 +1,22 @@
+.nav{
+    list-style: none;
+    display: flex;
+    gap: 1em;
+    justify-content: space-evenly;
+    text-align: center;
+    flex-wrap: wrap;
+    margin-right: 1em;
+}
+
+.nav-link{
+    color:#c8c8c8;
+    text-decoration: none;
+}
+
+.nav-link:hover{
+    font-size: larger;
+    border-style: 1px, solid, #c8c8c8;
+    box-shadow: 0 0 20px #c8c8c8;
+    border-radius: 2em;
+    padding: .2em;
+}

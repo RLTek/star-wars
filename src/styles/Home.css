@@ -1,0 +1,32 @@
+.App {
+  text-align: center;
+  background-color: #32383e;
+  color:#c8c8c8;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  display: flex;
+  flex-direction: column;
+}
+
+.title{
+  color: #FFE300; 
+ 
+}
+
+.death-star{
+  height: 10em;
+  width: 100%;
+ 
+}
+
+.intro{
+  display: flex;
+  text-align: center;
+  background-image: url('../images/death-star.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  justify-content: center;
+  align-items: center;
+  height: 30em;
+}
+
+
