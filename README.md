@@ -1,3 +1,32 @@
+# Project Title
+Star Wars
+
+## Features
+
+Look up information baout Star Wars by film, people, starships, vehicles, species and planets using the swapi.dev API
+
+## Getting Started
+
+* Instructions on how to get started with your project.
+
+## Usage
+
+* How to use your project.
+
+## Contributing
+
+Fork the reposititory to work on an issue and create a pull request when resolved
+
+## License
+
+* The license under which your project is released.
+
+## Contact
+
+* How to get in touch with you.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
