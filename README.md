@@ -3,7 +3,7 @@ Star Wars
 
 ## Features
 
-Look up information baout Star Wars by film, people, starships, vehicles, species and planets.
+Look up information baout Star Wars by film, people, starships, vehicles, species and planets using the swapi.dev API
 
 ## Getting Started
 
@@ -15,7 +15,7 @@ Look up information baout Star Wars by film, people, starships, vehicles, specie
 
 ## Contributing
 
-For the reposititory to work on an issue and create a pull request when resolved
+Fork the reposititory to work on an issue and create a pull request when resolved
 
 ## License
 
