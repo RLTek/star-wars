@@ -1,0 +1,36 @@
+    .films-page {
+        text-align: center;
+        background-color: #32383e;
+        color:#c8c8c8;
+        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+        display: flex;
+        flex-direction: column;
+      }
+
+    .films-title{
+        color: #FFE300; 
+        text-shadow: 1px 1px 2px black, -1px -1px 2px black, 0 0 0.2em black;
+      }
+
+      .films-intro{
+        display: flex;
+        text-align: center;
+        background-image: url('../images/theater.png');
+        background-size: cover;
+        background-repeat: no-repeat;
+        justify-content: center;
+        align-items: center;
+        height: 30em;
+      }
+
+      .film-link{
+        color:#c8c8c8;
+        text-decoration: none;
+    }
+
+    .film-link:hover{
+        font-size: larger;
+        border-style: 1px, solid, #c8c8c8;
+        box-shadow: 0 0 20px #c8c8c8;
+       
+    }
